@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAa;AAQb,aAAa;AAIb,eAAe;AAMf,kBAAkB;AAGlB,wBAAwB;ACnBxB,SAAS;EACP,SAAS,EAAE,OAAO;;AAEpB,cAAc;EACZ,UAAU,EAAC,aAAoB;EAC/B,MAAM,EAAE,IAAI",
+"sources": ["../baseStyle/size.scss","panel.scss"],
+"names": [],
+"file": "panel.css"
+}

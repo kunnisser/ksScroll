@@ -1,0 +1,29 @@
+{
+  "items": [{
+    "itemName": "孝道园美食",
+    "picPath":"../app/images/goodstmp1.jpg"
+  },
+    {
+      "itemName": "天津大麻睾",
+      "picPath":"../app/images/goodstmp2.jpg"
+    }
+    ,
+    {
+      "itemName": "常州萝卜干",
+      "picPath":"../app/images/goodstmp3.jpg"
+    },
+    {
+      "itemName": "雪堰白鱼干",
+      "picPath":"../app/images/goodstmp4.jpg"
+    },
+    {
+      "itemName": "嬉戏谷门票",
+      "picPath":"../app/images/goodstmp5.jpg"
+    },
+    {
+      "itemName": "开元大酒店",
+      "picPath":"../app/images/goodstmp6.jpg"
+    }
+  ],
+  "flag":false
+}

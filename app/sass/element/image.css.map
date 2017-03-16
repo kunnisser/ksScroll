@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,aAAa;AAQb,aAAa;AAIb,eAAe;AAMf,kBAAkB;AAGlB,wBAAwB;ACnBxB,QAAQ;EACN,OAAO,EAAE,KAAK;EACd,MAAM,EAAE,MAAiB;;AAE3B,gBAAgB;EACd,gBAAgB,ECPJ,OAAO;;ADSrB,gBAAgB;EACd,gBAAgB,ECAP,IAAI",
+"sources": ["../baseStyle/size.scss","image.scss","../baseStyle/color.scss"],
+"names": [],
+"file": "image.css"
+}

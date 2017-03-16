@@ -1,0 +1,22 @@
+@import "../baseStyle/color";
+@import "../baseStyle/size";
+input{
+  outline: none;
+  border: none;
+  -webkit-border-radius:0;
+  -moz-border-radius:0;
+  border-radius:0;
+  padding:0.17rem 0.12rem 0.13rem 0.12rem;
+  display: block;
+  height: $searchHeight;
+  font-size: 0.2rem;
+}
+.ks-default-input{
+  border: $borderSm+$maskColor;
+}
+.ks-primary-input{
+  border: $borderSm+$primaryColor;
+}
+.ks-info-input{
+  border: $borderSm+$infoColor;
+}

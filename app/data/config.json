@@ -1,0 +1,13 @@
+{
+  "fetchUrl": {
+    "searchUrl": "/app/data/test.json",
+    "loadingUrl":"/app/data/load"
+  },
+  "loadingMes":{
+    "beforeFresh":"下拉可以刷新",
+    "afterFresh":"松开即可刷新",
+    "loadingMore":"上滑加载更多",
+    "showMore":"撒手显示更多",
+    "loadingEnd": "内容是有底线的！"
+  }
+}

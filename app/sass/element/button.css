@@ -1,0 +1,44 @@
+/*base-size*/
+/*text-size*/
+/*border-size*/
+/*container-size*/
+/*searchComponent size*/
+button {
+  color: #fff;
+  outline: none;
+  border: none;
+  display: block;
+  height: 0.5rem; }
+
+.ks-primary-btn {
+  background-color: #0074D9;
+  border: 1px solid #0074D9; }
+
+.ks-default-btn {
+  background-color: #aaa;
+  border: 1px solid #aaa; }
+
+.ks-thin-primary-btn {
+  border: 1px solid #0074D9;
+  background-color: transparent;
+  color: #0074D9; }
+
+.ks-success-btn {
+  background-color: #2ECC40;
+  border: 1px solid #2ECC40; }
+
+.ks-thin-success-btn {
+  border: 1px solid #2ECC40;
+  background-color: transparent;
+  color: #2ECC40; }
+
+.ks-submit-btn {
+  background-color: #3D9970;
+  border: 1px solid #3D9970; }
+
+.ks-thin-submit-btn {
+  border: 1px solid #3D9970;
+  background-color: transparent;
+  color: #3D9970; }
+
+/*# sourceMappingURL=button.css.map */

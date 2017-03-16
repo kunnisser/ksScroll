@@ -1,0 +1,22 @@
+/*base-size*/
+/*text-size*/
+/*border-size*/
+/*container-size*/
+/*searchComponent size*/
+input {
+  outline: none;
+  border: none;
+  padding: 0.1rem 0.12rem;
+  display: block;
+  height: 0.5rem; }
+
+.ks-default-input {
+  border: 1px solid#aaa; }
+
+.ks-primary-input {
+  border: 1px solid#0074D9; }
+
+.ks-info-input {
+  border: 1px solid#7FDBFF; }
+
+/*# sourceMappingURL=input.css.map */

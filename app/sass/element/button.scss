@@ -1,0 +1,38 @@
+@import "../baseStyle/color";
+@import "../baseStyle/size";
+button{color:$whiteColor;
+  outline:none; border: none;
+  display: block;
+  height: $searchHeight;
+}
+.ks-primary-btn{
+   background-color: $primaryColor;
+   border:1px solid $primaryColor;
+ }
+.ks-default-btn{
+  background-color: $maskColor;
+  border:1px solid $maskColor;
+}
+.ks-thin-primary-btn{
+  border:1px solid $primaryColor;
+  background-color: transparent;
+  color: $primaryColor;
+}
+.ks-success-btn{
+  background-color: $successColor;
+  border:1px solid $successColor;
+}
+.ks-thin-success-btn{
+  border:1px solid $successColor;
+  background-color: transparent;
+  color: $successColor;
+}
+.ks-submit-btn{
+  background-color: $submitColor;
+  border:1px solid $submitColor;
+}
+.ks-thin-submit-btn{
+  border:1px solid $submitColor;
+  background-color: transparent;
+  color: $submitColor;
+}

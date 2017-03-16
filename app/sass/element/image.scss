@@ -1,0 +1,15 @@
+@import "../baseStyle/size";
+@import "../baseStyle/color";
+.ks-logo{
+  display: block;
+  height: $searchHeight*0.8;
+  width: 0.8rem;
+  background: url("../images/yzd-info.png") no-repeat;
+  background-size:100% 100%;
+}
+.ks-primary-logo{
+  background-color: $primaryColor;
+}
+.ks-default-logo{
+  background-color: $maskColor;
+}

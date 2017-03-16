@@ -1,0 +1,37 @@
+@import "color";
+@import "size";
+
+html {
+  -ms-text-size-adjust: $wholeSize;
+  -webkit-text-size-adjust: $wholeSize;
+  height: $wholeSize;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  margin: $zero;
+  padding:$zero;
+}
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: $fontColor;
+  background-color: $bgColor;
+  position: relative;
+  width: $wholeSize;
+  height: $wholeSize;
+}
+
+ul,ol,li{
+  list-style: none;
+}
+
+
+:global(#root){
+  box-sizing: border-box;
+  min-width: 320px;
+  max-width: 640px;
+  margin:$divCenter;
+  position: relative;
+  height: $wholeSize;
+}

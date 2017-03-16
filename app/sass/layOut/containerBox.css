@@ -1,0 +1,76 @@
+/*base-size*/
+/*text-size*/
+/*border-size*/
+/*container-size*/
+/*searchComponent size*/
+.container {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  padding: 0.74rem 0;
+  font-size: 0.12rem;
+  z-index: 99; }
+
+.ks-main {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+.ks-topbar {
+  position: absolute;
+  width: 100%;
+  height: 0.5rem;
+  top: 0.12rem;
+  left: 0;
+  z-index: 999; }
+
+.ks-flexbox {
+  display: -webkit-box;
+  width: 100%; }
+  .ks-flexbox > div {
+    display: -webkit-box;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    overflow: hidden; }
+  .ks-flexbox .flex-child-1 {
+    -webkit-box-flex: 1.0; }
+  .ks-flexbox .flex-child-2 {
+    -webkit-box-flex: 2.0; }
+  .ks-flexbox .flex-child-3 {
+    -webkit-box-flex: 3.0; }
+  .ks-flexbox .flex-child-4 {
+    -webkit-box-flex: 4.0; }
+  .ks-flexbox .flex-child-5 {
+    -webkit-box-flex: 5.0; }
+
+/*width*/
+.whole-wd {
+  width: 100%; }
+
+.half-wd {
+  width: 50%; }
+
+.normal-wd {
+  width: 80%; }
+
+/*height*/
+.whole-hg {
+  height: 100%; }
+
+.left-radius {
+  border-top-left-radius: 0.05rem;
+  border-bottom-left-radius: 0.05rem; }
+
+.right-radius {
+  border-top-right-radius: 0.05rem;
+  border-bottom-right-radius: 0.05rem; }
+
+/*margin-padding*/
+.plsm {
+  padding-left: 0.1rem; }
+
+/*# sourceMappingURL=containerBox.css.map */

@@ -1,0 +1,10 @@
+@import "../baseStyle/size";
+@import "../baseStyle/color";
+
+.ks-panel{
+  font-size: 0.35rem;
+}
+.default-panel{
+  border-top:$borderLm+$maskColor;
+  height: 100%;
+}
